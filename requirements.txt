@@ -1,0 +1,7 @@
+# Function dependencies, for example:
+# package>=version
+google-cloud-bigquery==0.31.0
+google-auth-oauthlib==0.2.0
+pytz==2018.3
+requests
+prettytable
